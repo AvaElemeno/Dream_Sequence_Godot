@@ -1,0 +1,22 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/4_Clinic_Exterior_ORIGINAL.tmx-4de7cbd05397b0fa5d2f05bfc0dd0f65.scn"
+
+[deps]
+
+source_file="res://Maps/ACT 1/4_Clinic_Exterior_ORIGINAL.tmx"
+dest_files=[ "res://.import/4_Clinic_Exterior_ORIGINAL.tmx-4de7cbd05397b0fa5d2f05bfc0dd0f65.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=6
+collision_layer=1
+embed_internal_images=false
+save_tiled_properties=false
+add_background=true
+post_import_script=""

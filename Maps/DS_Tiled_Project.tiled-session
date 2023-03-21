@@ -1,0 +1,40 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "ACT 1/1_Sleep_Clinic.tmx": {
+            "scale": 3.376953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.07403123192597,
+                "y": 128.2220936957779
+            }
+        },
+        "ACT 1/4_Clinic_Exterior_ORIGINAL.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 241,
+                "y": 208
+            }
+        },
+        "ACT 2/8_Bill_Bobs_Road_v2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20.33333333333337,
+                "y": 260
+            }
+        },
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Custom_Tileset_3.tsx": {
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "DS_Tiled_Project.tiled-project",
+    "recentFiles": [
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Custom_Tileset_3.tsx"
+    ]
+}
