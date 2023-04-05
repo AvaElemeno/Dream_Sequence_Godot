@@ -2,13 +2,11 @@
 
 importer="vnen.tiled_importer"
 type="PackedScene"
-path="res://.import/4_Clinic_Exterior_NEW.tmx-f0b3b98b72785d0ddc5215fa9922af44.scn"
+valid=false
 
 [deps]
 
-source_file="res://Maps/ACT 1/4_Clinic_Exterior_NEW.tmx"
-dest_files=[ "res://.import/4_Clinic_Exterior_NEW.tmx-f0b3b98b72785d0ddc5215fa9922af44.scn" ]
-
+source_file="res://Maps/ACT 2/8_Bill_Bobs_Road_v2.tmx"
 [params]
 
 custom_properties=true

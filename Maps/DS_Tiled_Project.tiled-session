@@ -7,34 +7,109 @@
             "scale": 3.376953125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 128.07403123192597,
-                "y": 128.2220936957779
+                "x": 110.30653556969347,
+                "y": 127.62984384037014
+            }
+        },
+        "ACT 1/3_Clinic_Stairs.tmx": {
+            "scale": 4.5755859375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 115.28578136338415,
+                "y": 72.12191061595595
+            }
+        },
+        "ACT 1/4_Clinic_Exterior_NEW.tmx": {
+            "scale": 1.9647727272727273,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 220.12724117987278,
+                "y": 220.3817235396183
             }
         },
         "ACT 1/4_Clinic_Exterior_ORIGINAL.tmx": {
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 241,
-                "y": 208
+                "x": 200.99999999999994,
+                "y": 206.66666666666669
             }
         },
-        "ACT 2/8_Bill_Bobs_Road_v2.tmx": {
-            "scale": 1.5,
+        "ACT 1/4_Hippy_Studio.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 95.36363636363636,
+                "y": 78.00000000000001
+            }
+        },
+        "ACT 1/4_Seven_Eleven.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 111,
+                "y": 95.81818181818183
+            }
+        },
+        "ACT 1/5_Millitary_Area.tmx": {
+            "scale": 3.602083333333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 20.33333333333337,
-                "y": 260
+                "x": 120.0694042799306,
+                "y": 119.93059572006942
+            }
+        },
+        "ACT 1/6_Highway_Chase_v2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 792.6666666666666,
+                "y": 300
+            }
+        },
+        "ACT 1/Hotel Hospital [GBStudio].tsx": {
+            "scaleInDock": 1
+        },
+        "ACT 1/seven_eleven_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "ACT 2/8_Bill_Bobs_Road_v2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 90.49999999999997,
+                "y": 115
             }
         },
         "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Custom_Tileset_3.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Robots & Metal Structures [GBStudio] Made by Elvies.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Robots_Metal Structures.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/signpost.tsx": {
+            "scaleInDock": 1
         }
     },
+    "last.externalTilesetPath": "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets",
+    "last.imagePath": "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets",
     "openFiles": [
     ],
     "project": "DS_Tiled_Project.tiled-project",
     "recentFiles": [
+        "ACT 2/8_Bill_Bobs_Road_v2.tmx",
+        "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Robots_Metal Structures.tsx",
+        "ACT 1/4_Clinic_Exterior_NEW.tmx",
         "C:/Users/Alexa/OneDrive/Documents/Gadot_Projects/DS_Test/Tilesets/Custom_Tileset_3.tsx"
-    ]
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
 }
